@@ -157,11 +157,5 @@ ssh -p 8022 u0_a443@192.168.1.13
 
 ---
 
-If you want, I can also help you:
-
-* make SSH auto-start
-* add aliases like `sshphone`
-* connect over USB instead of Wi-Fi 😼🔥
-
 ```
 ```
